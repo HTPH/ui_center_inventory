@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+*::-webkit-scrollbar{
+  display: none;
+}
+
+span {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.setcenter {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+}
+
+
+.kanit-regular {
+  font-family: "Kanit", sans-serif;
+  
+  font-style: normal;
+}
+
